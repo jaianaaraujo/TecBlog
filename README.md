@@ -1,6 +1,6 @@
-## TecBlog 👩🏽‍💻
+<h1> TecBlog </h1>👩🏽‍💻
 
-<h1> Requisitos: </h1>
+<h2> Requisitos: </h2>
 
 <p>🧩 Limpar as formatações padrões</p>
 <p>🧩 Utilizar Posisionamento Flutuantes</p>
