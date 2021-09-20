@@ -2,12 +2,12 @@
 
 <h2> Requisitos: </h2>
 
-<p>🧩 Limpar as formatações padrões</p>
-<p>🧩 Utilizar Posisionamento Flutuantes</p>
+<p>🧩 Limpar a formatação padrão</p>
+<p>🧩 Utilizar Posisionamento Flutuante (float e clear)</p>
 <p>🧩 Formatar os links</p>
-<p>🧩 Utilizar Pseudo-class</p>
+<p>🧩 Utilizar Pseudo-classes </p>
 
-🚨 Essa página está sem responsividade, cumprindo assim, os requisitos propostos para a devida atividade.
+🚨 Essa página está sem responsividade, cumprindo apenas, os requisitos propostos para a devida atividade.
 
 
 ![jpg](https://user-images.githubusercontent.com/85362901/133989749-328b0eeb-72d0-4627-a6ae-f14180c3bff4.jpg)
