@@ -1,4 +1,4 @@
-<h1> TecBlog </h1>👩🏽‍💻
+<h1> TecBlog 👩🏽‍💻 </h1>
 
 <h2> Requisitos: </h2>
 
