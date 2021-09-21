@@ -3,7 +3,7 @@
 <h2> Requisitos: </h2>
 
 <p>🧩 Limpar a formatação padrão</p>
-<p>🧩 Utilizar Posisionamento Flutuante (float e clear)</p>
+<p>🧩 Utilizar Posicionamento Flutuante (float e clear)</p>
 <p>🧩 Formatar os links</p>
 <p>🧩 Utilizar Pseudo-classes </p>
 
